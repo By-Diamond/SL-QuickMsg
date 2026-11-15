@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>SLQuickMsg.Tray</AssemblyName>
+    <RootNamespace>SLQuickMsg.Tray</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+
+    <ApplicationIcon>..\..\assets\app.ico</ApplicationIcon>
+    <AssemblyTitle>SL QuickMsg</AssemblyTitle>
+    <Product>SL QuickMsg</Product>
+    <Company>By Diamond</Company>
+    <Description>SCP: Secret Laboratory 快速聊天轮盘</Description>
+    <Copyright>© 2026 By Diamond</Copyright>
+    <Version>0.1.0</Version>
+    <FileVersion>0.1.0.0</FileVersion>
+    <AssemblyVersion>0.1.0.0</AssemblyVersion>
+  </PropertyGroup>
+
+</Project>
